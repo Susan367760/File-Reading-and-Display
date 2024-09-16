@@ -1,0 +1,6 @@
+Line 1: Hello, world!
+Line 2: Python file handling.
+Line 3: Numbers like 12345 can be written too.
+Line 4: This is an appended line.
+Line 5: Adding more content to the file.
+Line 6: Appending numbers like 67890.
